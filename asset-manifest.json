@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0b10ab27.chunk.css",
+    "main.js": "./static/js/main.0710a9b1.chunk.js",
+    "main.js.map": "./static/js/main.0710a9b1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.931ae251.js",
+    "runtime-main.js.map": "./static/js/runtime-main.931ae251.js.map",
+    "static/css/2.5e6b69fd.chunk.css": "./static/css/2.5e6b69fd.chunk.css",
+    "static/js/2.e310368f.chunk.js": "./static/js/2.e310368f.chunk.js",
+    "static/js/2.e310368f.chunk.js.map": "./static/js/2.e310368f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.3585ae547ab10cc0bc1690ada2dbb43a.js": "./precache-manifest.3585ae547ab10cc0bc1690ada2dbb43a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.5e6b69fd.chunk.css.map": "./static/css/2.5e6b69fd.chunk.css.map",
+    "static/css/main.0b10ab27.chunk.css.map": "./static/css/main.0b10ab27.chunk.css.map",
+    "static/media/Maya-avatar.jpg": "./static/media/Maya-avatar.45e6b951.jpg",
+    "static/media/mdb.css": "./static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "./static/media/fa-solid-900.8e1ed89b.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931ae251.js",
+    "static/css/2.5e6b69fd.chunk.css",
+    "static/js/2.e310368f.chunk.js",
+    "static/css/main.0b10ab27.chunk.css",
+    "static/js/main.0710a9b1.chunk.js"
+  ]
+}
